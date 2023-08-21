@@ -28,7 +28,7 @@ let clients = [
         img_filename: samiImage
     },
     {
-        name : "Yasir Ch.",
+        name : "Yasir Ijaz",
         position : "Web designer",
         stars : 3,
         disc : `I was impressed by the speed and details of the work. extra things were also provided which wasn't part of the work which is nice. 
